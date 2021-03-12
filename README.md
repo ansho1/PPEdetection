@@ -7,9 +7,10 @@ I trained the model for 50k epochs using ssdlite_mobilenet_v2_coco, the model ha
 
 Test Result: 
 
- ![image](https://user-images.githubusercontent.com/67517199/110623209-8f22e780-81c2-11eb-99cb-e83729575ec5.png)
+![image](https://user-images.githubusercontent.com/67517199/110985867-f8f1eb80-8392-11eb-8383-d64f80417712.png)
 
- ![image](https://user-images.githubusercontent.com/67517199/110623117-6a2e7480-81c2-11eb-84ee-4ef34d1f835f.png)
+
+![image](https://user-images.githubusercontent.com/67517199/110623117-6a2e7480-81c2-11eb-84ee-4ef34d1f835f.png)
 
 
 
